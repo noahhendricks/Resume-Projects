@@ -1,0 +1,106 @@
+.navbar{
+background-color:#FFFFFF;
+overflow:hidden;
+display:flex;
+justify-content:center;
+}
+.navbar a{
+float:left;
+color:#000000;
+text-align:center;
+padding:30px 50px;
+text-decoration:none;
+font-size:20px;
+}
+.navbar a:hover{
+background-color:#000000;
+color:white;
+}
+.navbar a.active{
+background-color:#808080;
+color:white;
+}
+#container{
+
+ text-align: center;
+ background-color: black;
+ color: white;
+ height: 1500px;
+
+}
+
+#header{
+
+ width: 150px;
+ height: 100px;
+ margin-top: 25px;
+ margin-bottom: 25px;
+
+}
+
+#streaming{
+
+ margin-top: 100px;
+ margin-bottom: 100px;
+
+}
+
+#tidal{
+ 
+ background: url('https://assets.materialup.com/uploads/f70199e4-111f-4b0e-8643-62f48a767513/teaser.png');
+ width: 100px;
+ height: 100px;
+ background-size: 100%;
+ margin-right: 50px;
+ border: 5px solid white;
+
+}
+
+#googleplay{
+ 
+ background: url('https://dl1.cbsistatic.com/i/2019/02/28/796bc648-9a9e-48a8-a1d1-4eba9e4299cc/84fc882b732cad6e883a2ac295af0969/imgingest-1840916640336399187.png');
+ width: 100px;
+ height: 100px;
+ background-size: 100%;
+ margin-right: 50px;
+ border: 5px solid white;
+
+}
+
+#deezer{
+ 
+ background: url('https://lh3.googleusercontent.com/r55K1eQcji3QMHRKERq6zE1-csoh_MTOHiKyHTuTOblhFi_rIz06_8GN5-DHUGJOpn79=s180-rw');
+ width: 100px;
+ height: 100px;
+ background-size: 100%;
+ margin-right: 50px;
+ border: 5px solid white;
+
+}
+
+#pandora{
+ 
+ background: url('https://robots.net/wp-content/uploads/2020/02/Pandora-Music-600x600.jpg');
+ width: 100px;
+ height: 100px;
+ background-size: 100%;
+ margin-right: 50px;
+ border: 5px solid white;
+
+}
+
+#copyright{
+
+ font-size:36px;
+ background-color: white;
+ color: black;
+ font-weight: bold;
+ margin-bottom:25px;
+ width: 40%;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+
+
+

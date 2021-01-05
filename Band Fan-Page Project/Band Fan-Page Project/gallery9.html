@@ -1,0 +1,93 @@
+<html>
+<head>
+<style>
+.pic
+	{
+  		float: left;
+	}
+
+.logo
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:10%;
+}
+.navbar{
+background-color:#FFFFFF;
+overflow:hidden;
+display:flex;
+justify-content:center;
+}
+.navbar a{
+float:left;
+color:#000000;
+text-align:center;
+padding:30px 50px;
+text-decoration:none;
+font-size:20px;
+}
+.navbar a:hover{
+background-color:#000000;
+color:white;
+}
+.navbar a.active{
+background-color:#808080;
+color:white;
+}
+
+</style>
+</head>
+	<body bgcolor="black">
+	<title>CATFISH AND THE BOTTLEMEN GALLERY</title>
+	<link rel="stylesheet" href="gallerymain.css"> 
+	<a href="gallerymain.html">
+	<img src="photos/logo.jpeg" class="logo">
+	</a>
+
+<div class="navbar">
+<a href="homepage.html">Home</a>
+<a href="music.html">Music</a>
+<a href="gallerymain.html">Gallery</a>
+<a href="merchmain.html">Merch</a>
+<a class="tour.html" href="tour.html">Tour</a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ 	<h1 style="color:white" > <img src="photos/Limited Edition Signed Poster.jpg"
+	class="pic" style="style=width:400px; height: 400px;
+	margin-left: 300px; margin-right: 70px;"><br><br><br>
+	Limited Edition Signed Poster <br> $99.99 <br><br>
+		<label> Amount </label>
+			<input type="number" min="1" max="10" name="rate"/><br>
+				<label> Choose Frame </label><select>
+  				<option> Coated Wood </option>
+  				<option> Glittered Plastic </option>
+  				<option> Shiny Metal </option>
+				<option> No Frame </option>
+ 				</select>	
+	<form>
+	  	<p><input type="button" value="Add to Cart">
+		<input type="button" value="Add To Wishlist">
+		<input type="button" value="Order More" onClick="window.location.href = 'gallerymain.html';"></p>
+	 </form>
+	</h1>
+ </div>
+
+</body>
+
+<br>
+<br>
+<br>
+
+<center>
+<footer style="font-family:Fantasy;color:white;font-size:30px;">&copy; Copyright Catfish and the Bottlemen 2020</footer>
+</center>
+
+</html>

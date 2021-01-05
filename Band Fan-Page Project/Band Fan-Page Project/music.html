@@ -1,0 +1,46 @@
+<html>
+ <head>
+  <title>Bottlemen-Homepage</title>
+  <link rel="stylesheet" type="text/css" href="music.css" />
+ </head>
+
+ <div id="container">
+
+  <div>
+   <img src="images/mlogo.jpg" id="header">
+   <br>
+  </div>
+
+<div class="navbar">
+<a href="homepage.html">Home</a>
+<a href="merchmain.html">Merch</a>
+<a class="active" href="music.html">Music</a>
+<a href="tour.html">Tour</a>
+<a href="gallerymain.html">Gallery</a>
+</div>
+
+ <div id="streaming">
+  <!--Got code from spotify app -->
+  <iframe src="https://open.spotify.com/embed/artist/2xaAOVImG2O6lURwqperlD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+  <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="380" style="width:100%;max-width:300px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/catfish-and-the-bottlemen-essentials/pl.9fad8d96f3624a5993375a76447ab5e9?app=music"></iframe>
+ </div>
+
+ <!-- Learned how to link on click at https://www.w3docs.com/snippets/html/how-to-create-an-html-button-that-acts-like-a-link.html -->
+ <div id="links">
+  <input type="button" id="tidal" onclick="window.location.href = 'https://listen.tidal.com/artist/4916645'" />
+  <input type="button" id="googleplay" onclick="window.location.href = 'https://play.google.com/store/music/artist/Catfish_And_The_Bottlemen?id=Akyktl52urlgcbrbge3fkkomlhe&hl=en_US'" />
+  <input type="button" id="deezer" onclick="window.location.href = 'https://www.deezer.com/en/artist/1116771'" />
+  <input type="button" id="pandora" onclick="window.location.href = 'https://www.pandora.com/artist/catfish-and-the-bottlemen/ARfJvZzfcnw3fc9'" />
+ </div>
+
+  <div id="copyright">
+   <p>
+    © Copyright Catfish and the Bottlemen 2020
+   </p>
+  </div>
+
+</div>
+
+</html>
