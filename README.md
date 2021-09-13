@@ -37,7 +37,9 @@ Solo project where an informative visualization was created through the use of t
 Case study report based on an India-based life insurance company where they look to improve customer retention through six sigma, DMAIC process, and other quality tools.
 
 
-8.
+8. HRD Training Solution
+
+With a team of 4, I was the team leader in the Instructional Design process for HEB trainees. Our team came up with a training solution to the lack of training some newly hired employees may lack. The explanation of the performance problem, ID method, and further details were examined in our delivered project. Also, the, explanation of instructional objectives, training materials, assessment tools and evaluations, and plan for project delivery were covered.
 
 
 9.
