@@ -19,9 +19,24 @@ In this individual project I designed a network for a 3 story apartment complex 
 
 4. Tobiuo Technologies Customer Relationship System Project
 
-In this semester long group project my team of 11 created an an online administrative system design for a Tai Quan Dao client. In this project many computer skills and techniques were required to successfully build a customer relationship system for our client.
+In this year long group project my team of 11 created an an online administrative system design for a Tai Quan Dao client. In this project many computer skills and techniques were required to successfully build a customer relationship system for our client. A database was implemented through SQL Server and a working GUI was created through the use of Python and PyQt. These were built collectively along with the business cases and rules. Reports were also created along with an ERD to show the database layout and a Data Dictionary to show each entity and stored attributes along with their details. SQL scripts for each entity was also created along with its’ respective data. This project was also packaged up and delivered onto the University of Houston's College of Technology school server.
 
 
 5. A Guidebook to IOS Jailbreaking
 
 In this individual project I researched and presented my improved knowledge within the cyber security world. In essence, I thoroughly explain what IOS jailbreaking actually is, its' many risks, and software security intrusions that are inevitable in corrupting IOS devices with exploiting use.
+
+
+6. NCAA Basketball Tableau Visualization
+
+Solo project where an informative visualization was created through the use of the Tableau software. Using the visualization theories of Edward Tufte and Colin Ware, an informative graphic was created from standalone data retrieved online. Data from NCAA Basketball team success rates in 2020 were collected and showcased how specific team's attributes directly correlated to their overall success rates.
+
+
+7.
+
+
+8.
+
+
+9.
+
