@@ -32,7 +32,9 @@ In this individual project I researched and presented my improved knowledge with
 Solo project where an informative visualization was created through the use of the Tableau software. Using the visualization theories of Edward Tufte and Colin Ware, an informative graphic was created from standalone data retrieved online. Data from NCAA Basketball team success rates in 2020 were collected and showcased how specific team's attributes directly correlated to their overall success rates.
 
 
-7.
+7. Lean Six Sigma Case Study Report
+
+Case study report based on an India-based life insurance company where they look to improve customer retention through six sigma, DMAIC process, and other quality tools.
 
 
 8.
