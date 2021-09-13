@@ -42,5 +42,7 @@ Case study report based on an India-based life insurance company where they look
 With a team of 4, I was the team leader in the Instructional Design process for HEB trainees. Our team came up with a training solution to the lack of training some newly hired employees may lack. The explanation of the performance problem, ID method, and further details were examined in our delivered project. Also, the, explanation of instructional objectives, training materials, assessment tools and evaluations, and plan for project delivery were covered.
 
 
-9.
+9. Adobe Digital Booklet
+
+Through the use of Adobe Illustrator, Photoshop, and InDesign a digital book covering an iconic figure was produced along with their story within society.
 
