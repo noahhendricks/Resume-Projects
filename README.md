@@ -46,3 +46,11 @@ With a team of 4, I was the team leader in the Instructional Design process for 
 
 Through the use of Adobe Illustrator, Photoshop, and InDesign a digital book covering an iconic figure was produced along with their story within society.
 
+
+10. Oracle SQL
+
+8 different assignments showing the progression of learning within Oracle SQL. Each assignment used a variety of different skills to teach its' designed lesson. The ITAM schema was used for these assignments.
+
+11. Self-Signed SSL Certificate
+
+Secure Socket Layer and Transport Layer Security created through the use of OpenSSL and Vue.JS. I used a self assigned cerftificate and generated an encrypted code that eventually allowed my own webpage data integrity, authentication, and security.
