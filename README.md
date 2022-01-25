@@ -27,7 +27,7 @@ With a team of 4, I was the team leader in the Instructional Design process for 
 In this individual project I researched and presented my improved knowledge within the cyber security world. In essence, I thoroughly explain what IOS jailbreaking actually is, its' many risks, and software security intrusions that are inevitable in corrupting IOS devices with exploiting use.
 
 
-#### 6. JavaScript
+## 6. JavaScript
 
 All Javascript language assignments using only the JS language specifically.
 
