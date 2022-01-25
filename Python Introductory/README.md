@@ -9,7 +9,7 @@ README Files contain the following:
 4. Where users can get help with your project?
 5. Who maintains and contributes to the project?
 
-Homework1 Folder contains assigned ZyLabs from Chapters 1-5 as well as Coding Problem 1.
+Homework_1 Folder contains assigned ZyLabs from Chapters 1-5 as well as Coding Problem 1.
 
 Coding Problem 1 :
 
@@ -20,7 +20,7 @@ Coding Problem 1 :
 4. Users can contact the maintainer or the contributer(s) to get help with the project.
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
 
-Homework2 Folder contains assigned ZyLabs from Chapters 6-9 as well as Coding Problem 2 Parts a,b,c.
+Homework_2 Folder contains assigned ZyLabs from Chapters 6-9 as well as Coding Problem 2 Parts a,b,c.
 
 Coding Problem 2:
 
@@ -46,7 +46,7 @@ Coding Problem 2:
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
 
 
-Homework3 Folder contains assigned ZyLabs including chapters 10 and 11 which require key concepts within python using classes, lists, and dictionaries as well as their specific techniques within each chapter.
+Homework_3 Folder contains assigned ZyLabs including chapters 10 and 11 which require key concepts within python using classes, lists, and dictionaries as well as their specific techniques within each chapter.
 
 ZyLabs Chapter 10:
 1. Uses classes and its' particular means within the python coding language.
@@ -55,7 +55,7 @@ ZyLabs Chapter 11:
 1. Uses lists and dictionaries and their particular means within the python coding language.
 
 
-Homework4 Folder contains assigned ZyLabs including chapters 12 and 14 which require key concepts within python using exceptions, and searching and sorting algorithms as well as their specific techniques within each chapter.
+Homework_4 Folder contains assigned ZyLabs including chapters 12 and 14 which require key concepts within python using exceptions, and searching and sorting algorithms as well as their specific techniques within each chapter.
 
 ZyLabs Chapter 12:
 1. Uses exceptions and its' particular means within the python coding language.
