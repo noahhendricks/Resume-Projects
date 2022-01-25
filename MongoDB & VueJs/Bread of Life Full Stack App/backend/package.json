@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "author": "CIS 43339 Group 16",
+  "description": "Thomas Peters, Noah Hendricks,Muhib Maknojia",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "startdev": "nodemon ./.bin/www",
+    "start": "node ./.bin/www"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "mongoose-auto-increment": "^5.0.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
