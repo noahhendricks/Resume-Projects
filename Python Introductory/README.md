@@ -62,6 +62,6 @@ ZyLabs Chapter 12:
 ZyLabs Chapter 14:
 1. Uses searching and sorting algorithms and its' particular means within the python coding language.
 
-# PYTHON PROJECTS
+# PYTHON PROJECT
 
 Electronic store python program that gives user ability to import/export data from excel spreadsheets that incorporate a list of python functions within the program and allows the user access to store inventory from various perspectives.
