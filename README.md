@@ -32,7 +32,7 @@ In this individual project I researched and presented my improved knowledge with
 All Javascript language assignments using only the JS language specifically.
 
 
-### 7. Lean Six Sigma Case Study Report
+## 7. Lean Six Sigma Case Study Report
 
 Case study report based on an India-based life insurance company where they look to improve customer retention through six sigma, DMAIC process, and other quality tools.
 
