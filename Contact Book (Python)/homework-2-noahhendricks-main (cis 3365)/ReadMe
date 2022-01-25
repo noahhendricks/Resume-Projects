@@ -1,0 +1,15 @@
+Python program that calls https://openweathermap.org/current 
+
+Program asks user to type in the city and country to retrieve the current weather of that location.
+
+A menu is setup for the user to have weather map options
+
+        s - Store current weather result\n
+        a - Output all weather results in alphabetical order by country & city\n
+        t - Output all weather results in ascending order by temperature\n
+        o - Output all weather results\n
+        d - Delete weather result(s)\n
+        q - Quit\n')
+
+MySQL is again used as the database to hold each result and is stored in a table called "results".
+
