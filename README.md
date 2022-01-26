@@ -44,27 +44,7 @@ Solo project where an informative visualization was created through the use of t
 
 ## 9. Programming Projects
 
-### JavaScript
-All Javascript language assignments using only the JS language specifically.
-
-### MongoDB & VueJs
-Full Stack Web Application that allows complete CRUD functionality using VS Code as the environment. MongoDB and Vue.js is used to create, store, and manipulate user entered data at the user entry level. This application was created for a local food/charity business in Houston that helps out the less fortunate called Bread of Life.
-
-### MongoDB 
-MongoDB NoSQL introduction that displays a level of mastery in several excercises using the mongo shell as well as Visual Studio Code.
-
-### Python & JavaScript
-Full Stack Web Application for a group of friends and their favorite listing of movies. (underdeveloped)
-
-### Python Advanced
-Set of programs that display the advanced technical use of the python programming language.
-
-
-### Python Introductory
-Series of labs, coding assignments, and a final project to display the basic functionality of the python programming language.
-
-### VueJs
-Vue.js introductory assignment that displays the basic level use of Vue.
+Series of projects, labs, and assignments dealing with a variety of coding languages and various techniques used within each program to display a level of software development skillset. These Programming languages include JavaScript, MongoDB, VueJs, Python, and HTML. Programming environments used: Visual Studio Code & PyCharm.
 
 
 ## 10. Self-Signed SSL Certificate
