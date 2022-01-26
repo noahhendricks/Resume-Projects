@@ -1,0 +1,77 @@
+<!-- Noah Hendricks -->
+<!-- CIS 4339 - 14075 Homework 2, Fall 2021 -->
+<!-- Part 1 -->
+
+<!DOCTYPE html>
+<html>
+
+<!-- Title of webpage in the tab -->
+<!-- Links website together -->
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Homework 2: Counter Part 1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="counter.css" />
+  <link href="https://fonts.googleapis.com/css?family=Bangers|Open+Sans" rel="stylesheet">
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script> -->
+  <script src="https://unpkg.com/vue@next"></script>
+</head>
+
+<!-- Counter incrementation and decrementation -->
+<!-- Buttons are created for the functionality of increment, decrement, and reset -->
+<body>
+  <main class="main" id="app">
+    <h1>Counter Exercise</h1>
+    <div id = "c">
+      <article class="counter">
+        <h2>{{odd_even}}</h2>
+        <p class="count">{{counter}}</p>
+        <button v-on:click="increment(); even_or_odd()">Increment by 1</button>
+        <button v-on:click="decrement(); even_or_odd()">Decrement by 1</button>
+        <button v-on:click="reset(); even_or_odd()">Reset counter</button>
+        <div class="input-group">
+          <label for="amount">Amount</label>
+          <input type="number" v-model="counter" v-on:input="even_or_odd()" name="amount">
+        </div>
+    </div>
+    </article>
+  </main>
+
+  <!-- Vue create app instance is made and called -->
+  <!-- This is where all the functionality lies for the increment, decrement, and reset buttons -->
+  <!-- Also this is where the user receives feedback from webpage -->
+  <script type = "text/javascript">
+    const app = Vue.createApp({
+        data() { 
+            return{
+              counter: 0,
+              odd_even: "The count is even!",
+            } 
+        },
+        methods: {
+          increment: function () {
+            this.counter = this.counter + 1
+          },
+          decrement: function () {
+            this.counter = this.counter - 1
+          },
+          reset(){
+            this.counter = 0
+          },
+          even_or_odd(){
+            remainder = this.counter % 2
+            if (remainder == 0){
+              this.odd_even = "The count is even!"
+            }
+            else{
+              this.odd_even = "The count is odd!"
+            }
+          }
+        }
+      })
+      const mountedApp = app.mount('#app');
+  </script> 
+</body>
+
+</html>
