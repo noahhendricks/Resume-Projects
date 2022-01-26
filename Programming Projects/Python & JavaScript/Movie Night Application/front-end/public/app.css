@@ -1,0 +1,41 @@
+/*      Noah Hendricks
+        Student ID: 1900219
+        CIS 3368 - 22693 Homework 3, Spring 2021
+        Web front-end that lists information about programming languages
+*/
+
+
+/* the section that displays the JSON results in tabular format */
+/* #result {
+    margin-top: 20px;
+    background-color: rgb(255, 145, 150);
+} */
+
+/* the body element should have some top down padding */
+body {
+    padding: 50px ;
+}
+
+/* the main area where all of the content is stored including the navigation links, the drop down menu and the table */
+main {
+    background-color: #bbbbbb;
+    padding: 30px;
+    border-radius: 10px 10px;
+}
+
+/* the nav area that has the home navigation links to route to */
+nav {
+    background-color: #3b3b33;
+    padding: 30px;
+    border-radius: 10px 10px 0 0;
+}
+
+/*******************************************************************************************
+                                    CITATIONS
+/*******************************************************************************************
+/* **Background Color** Ref Link: https://www.w3schools.com/cssref/pr_background-color.asp
+/* **Border Radius** Ref Link: https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+/* **Padding** Ref Link: https://www.w3schools.com/css/css_padding.asp
+/* **Margin-Top** Ref Link: https://www.w3schools.com/cssref/pr_margin-top.asp
+*/
+

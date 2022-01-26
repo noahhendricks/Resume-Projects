@@ -1,0 +1,57 @@
+<!--      
+        Noah Hendricks
+        Patrick Kurth
+        Student ID: 1900219
+        CIS 3368 - 22693 Homework Final Project, Spring 2021
+        Movie Night Organizer App
+-->
+
+<!-- Webpage Route for the index ejs file -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('../partials/head'); %>
+</head>
+<body class="container">
+
+    <header>
+        <%- include('../partials/header'); %>
+        
+    </header>
+
+    <main>
+
+      <!-- created a dynamic form for the selection of friends -->
+      <!-- Webpage Route and GET method -->
+      <form class="form" action="/results" method="GET">
+        <div class="form-group mb-2">
+            <select class="form-control" name="movie">
+
+                <!-- Calls the movie array and puts each existing friend inside a for loop-->
+                <% locals.movieArray.forEach(movie=> { %>
+
+                    <!-- Puts each movielist in the dropdown selection by calling their id's but showcases their first and last names-->
+                    <option value="<%= movie.friendid %>">
+
+                        <!-- Pulling of the movie id and friend id to be displayed in the dropdown menu-->
+                        <%= movie.id %> , <%= movie.friendid %>
+                    </option>
+                    <% }) %>
+            </select>
+        </div>
+
+        <!-- Creation of bootstrap style button -->
+        <!-- Submit button for form to proceed the action-->
+        <button class="btn btn-primary" type="submit">Submit</button>
+      </form>
+    </main>
+
+    <footer>
+
+    </form>
+        <%- include('../partials/footer'); %>
+    </footer>
+
+</body>
+</html>
