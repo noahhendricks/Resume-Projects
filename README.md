@@ -1,5 +1,5 @@
 # Resume-Projects
-All UH relevant coursework projects 
+All University of Houston relevant coursework projects 
 
 
 ## 1. Adobe Digital Booklet
