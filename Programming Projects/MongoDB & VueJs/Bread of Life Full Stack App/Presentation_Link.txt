@@ -1,3 +1,0 @@
-https://web.microsoftstream.com/video/120eb106-1d73-4a31-845d-bf6858e67217?list=studio
-
-Note - Table does work properly, minor mistake in the presentation video where 2 API routes were duplicated and covered up the other.
