@@ -42,22 +42,27 @@ Solo project where an informative visualization was created through the use of t
 8 different assignments showing the progression of learning within Oracle SQL. Each assignment used a variety of different skills to teach its' designed lesson. The ITAM schema was used for these assignments.
 
 
-## 9. Programming Projects
+## 9. Permanent Communications T.A.P.I. (Web App)
+
+a
+
+
+## 10. Programming Projects
 
 Series of projects, labs, and assignments dealing with a variety of coding languages and various techniques used within each program to display a level of software development skillset. These Programming languages include JavaScript, MongoDB, VueJs, Python, and HTML. Programming environments used: Visual Studio Code & PyCharm.
 
 
-## 10. Self-Signed SSL Certificate
+## 11. Self-Signed SSL Certificate
 
 Secure Socket Layer and Transport Layer Security created through the use of OpenSSL and Vue.JS. I used a self assigned cerftificate and generated an encrypted code that eventually allowed my own webpage data integrity, authentication, and security.
 
 
-## 11. T-Mobile Shop System
+## 12. T-Mobile Shop System
 
 In a team of 3, my group created an online database for a newly designed T-Mobile shop system that allows access for management to see the inventory and selling of products throughout the store.
 
 
-## 12. Tobiuo Technologies Customer Relationship System Project
+## 13. Tobiuo Technologies Customer Relationship System Project
 
 In this year long group project my team of 11 created an an online administrative system design for a Tai Quan Dao client. In this project many computer skills and techniques were required to successfully build a customer relationship system for our client. A database was implemented through SQL Server and a working GUI was created through the use of Python and PyQt. These were built collectively along with the business cases and rules. Reports were also created along with an ERD to show the database layout and a Data Dictionary to show each entity and stored attributes along with their details. SQL scripts for each entity was also created along with its’ respective data. This project was also packaged up and delivered onto the University of Houston's College of Technology school server.
 
