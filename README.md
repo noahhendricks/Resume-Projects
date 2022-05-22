@@ -44,7 +44,7 @@ Solo project where an informative visualization was created through the use of t
 
 ## 9. Permanent Communications T.A.P.I. (Web App)
 
-a
+3 Month long project where my team of 5 created a work breakdown structure web application for our client's company of International Piping to track house projects, employees, subcontractors, loan services, and generated reports for each. Through the company and systems analysis procedures, we moved our client over from a paper based & excel powered company onta a local, internal desktop/laptop web application without internet needs. Through the use of an Entity Relationship Diagram, Data Dictionary, Activity Diagrams, Flowcharts, Use Cases, Business Cases, and a Problem & Requirements list, we were able to bring the client'WBS process to life in web application form using Javascript and Vue frontend along with the MongoDB backend. This project was delivered onto the University of Houston's College of Technology school server.
 
 
 ## 10. Programming Projects
