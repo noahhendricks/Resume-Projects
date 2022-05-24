@@ -5,6 +5,6 @@ BACKEND commands
 
 
 FRONTEND commands
-1. cd frontend
+1. cd final_frontend
 2. npm install
 3. npm run serve
